@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BondsPeriodic",
+            "request": "launch",
+            "mainClass": "BondsPeriodic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bondsNewIssue",
+            "request": "launch",
+            "mainClass": "bondsNewIssue"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-firstEquation",
+            "request": "launch",
+            "mainClass": "firstEquation"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-linearCFR",
+            "request": "launch",
+            "mainClass": "linearCFR"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-macaulayDuration",
+            "request": "launch",
+            "mainClass": "macaulayDuration"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-parBonds",
+            "request": "launch",
+            "mainClass": "parBonds"
+        }
+    ]
+}
